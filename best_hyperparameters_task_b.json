@@ -1,0 +1,1 @@
+{"num_rnn_layers": 1, "rnn_type": "gru", "lstm_units_0": 128, "lstm_dropout_0": 0.0, "learning_rate": 0.01, "lstm_units_1": 32, "lstm_dropout_1": 0.30000000000000004, "lstm_units_2": 64, "lstm_dropout_2": 0.4, "gru_units_0": 128, "gru_dropout_0": 0.30000000000000004}
